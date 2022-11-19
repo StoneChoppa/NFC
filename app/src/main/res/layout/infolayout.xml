@@ -13,7 +13,7 @@
         android:layout_height="wrap_content"
         android:gravity="center"
         android:textSize="25dp"
-        android:text="Данное приложение создано для того, чтобы добавить вашу пропускную карту, ключ от домофона и прочее в ваш смартфон. Текущий этап: начало разработки"
+        android:text="@string/nfc"
         android:textColor="@color/green"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
